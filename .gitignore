@@ -1,0 +1,13 @@
+__pycache__
+domainbed/facebook.py
+
+domainbed/data
+train_output/*
+results/
+.vscode
+sweep_output
+run_exp/Exp.csv
+output.*
+utils/*
+run_exp/*
+1st_revision
